@@ -13,7 +13,6 @@ This personal project demonstrates a Bash shell script created to automate syste
 ## Files Included
 - System_Health_Script_Report.docx
 - system_health.sh
-- Screenshots (if applicable)
 
 ## Tools & Environment
 - Kali Linux
